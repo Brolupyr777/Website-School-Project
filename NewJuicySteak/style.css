@@ -1,0 +1,39 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(pexels-daniel-absi-952670.jpg);
+  background-size: 100%;
+}
+
+.top {
+  width: 100 px;
+  background-color: black;
+  opacity: 65%;
+  position: relative;
+}
+
+.buttons {
+  border-radius: 15px;
+  margin: auto;
+  cursor: pointer;
+}
+buttons:hover {
+}
+.logo {
+  width: 100px;
+}
+.jucy-steak-img {
+  float: right;
+}
+h1,
+h2 {
+  color: white;
+  position: relative;
+}
+
+.background-images {
+  z-index: -1;
+  max-width: 100%;
+  position: relative;
+  top: 0px;
+  list-style: none;
+}
